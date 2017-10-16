@@ -838,9 +838,9 @@ github@~0.1.10:
   version "0.1.16"
   resolved "https://registry.yarnpkg.com/github/-/github-0.1.16.tgz#895d2a85b0feb7980d89ac0ce4f44dcaa03f17b5"
 
-gitmoji-commit-types@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/gitmoji-commit-types/-/gitmoji-commit-types-1.0.0.tgz#78a227e857fd23365513e4553af6bf7f106b4e99"
+gitmoji-commit-types@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/gitmoji-commit-types/-/gitmoji-commit-types-1.1.0.tgz#3f76ded93e2ab1b08fecadae66b6e1042b6698ba"
 
 glob-base@^0.3.0:
   version "0.3.0"
