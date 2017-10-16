@@ -1,0 +1,32 @@
+{
+  "name": "cz-gitmoji-changelog",
+  "version": "1.0.0",
+  "description": "Commitizen adapter following the Gitmoji format.",
+  "main": "index.js",
+  "author": "Wellington Cordeiro <wellington@wellingtoncordeiro.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "commitizen": "^2.9.6",
+    "semantic-release": "^8.2.0"
+  },
+  "dependencies": {
+    "gitmoji-commit-types": "^1.0.0",
+    "lodash.map": "^4.6.0",
+    "longest": "^2.0.1",
+    "right-pad": "^1.0.1",
+    "word-wrap": "^1.2.3"
+  },
+  "scripts": {
+    "commit": "git-cz",
+    "semantic-release": "semantic-release pre && yarn publish && semantic-release post"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wldcordeiro/cz-gitmoji-changelog"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./index.js"
+    }
+  }
+}
