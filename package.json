@@ -18,7 +18,8 @@
   },
   "scripts": {
     "commit": "git-cz",
-    "semantic-release": "semantic-release pre && yarn publish && semantic-release post"
+    "semantic-release": "semantic-release pre && yarn publish && semantic-release post",
+     "test": "echo 'Tests need to be setup!'"
   },
   "repository": {
     "type": "git",
