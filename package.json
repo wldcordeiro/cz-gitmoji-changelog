@@ -1,6 +1,6 @@
 {
   "name": "cz-gitmoji-changelog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Commitizen adapter following the Gitmoji format.",
   "main": "index.js",
   "author": "Wellington Cordeiro <wellington@wellingtoncordeiro.com>",
