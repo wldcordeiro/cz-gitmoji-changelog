@@ -10,7 +10,7 @@
     "semantic-release": "^8.2.0"
   },
   "dependencies": {
-    "gitmoji-commit-types": "^1.1.0",
+    "gitmoji-commit-types": "^1.2.1",
     "lodash.map": "^4.6.0",
     "longest": "^2.0.1",
     "right-pad": "^1.0.1",
