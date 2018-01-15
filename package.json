@@ -1,6 +1,6 @@
 {
   "name": "cz-gitmoji-changelog",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Commitizen adapter following the Gitmoji format.",
   "main": "index.js",
   "author": "Wellington Cordeiro <wellington@wellingtoncordeiro.com>",
@@ -19,7 +19,7 @@
   "scripts": {
     "commit": "git-cz",
     "semantic-release": "semantic-release pre && yarn publish && semantic-release post",
-     "test": "echo 'Tests need to be setup!'"
+    "test": "echo 'Tests need to be setup!'"
   },
   "repository": {
     "type": "git",
